@@ -1,4 +1,5 @@
-![img.png](img.png)
+<img width="220" height="55" alt="image" src="https://github.com/user-attachments/assets/683a8c76-dd52-462c-8997-602bf5d298ca" />
+
 
 ## Module 10 - Container Orchestration with Kubernetes
 
