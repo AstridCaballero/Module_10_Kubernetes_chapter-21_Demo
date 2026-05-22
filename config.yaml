@@ -134,6 +134,8 @@ spec:
         env:
         - name: PORT
           value: "3550"
+        - name: DISABLE_PROFILER
+          value: "1"
         livenessProbe:
           grpc:
             port: 3550

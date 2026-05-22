@@ -1,9 +1,0 @@
-appName: redis
-appImage: redis
-appVersion: xxxx
-appReplicas: xxxx
-containerPort: 6379
-volumeName: xxxx
-containerMountPath: xxxx
-
-servicePort: 6379
