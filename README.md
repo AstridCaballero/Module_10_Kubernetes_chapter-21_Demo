@@ -1,4 +1,5 @@
-<img width="220" height="55" alt="image" src="https://github.com/user-attachments/assets/683a8c76-dd52-462c-8997-602bf5d298ca" />
+<img width="83" height="35" alt="image" src="https://github.com/user-attachments/assets/72810e8b-9489-42f3-8260-17b4b43e9c18" />
+
 
 
 ## Module 10 - Container Orchestration with Kubernetes
