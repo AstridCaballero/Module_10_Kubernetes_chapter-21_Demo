@@ -1,7 +1,7 @@
 ## Module 10 - Container Orchestration with Kubernetes
 I create a branch per chapter
 
-### Description chapter 21 to 22 (now chapter 22 to 23 after the introduction of new chapter 11 - Gateway API)
+### Description chapter 21 to 22 (now chapter 22 to 23 after the introduction of new chapter 11 - Gateway API): Deploy Microservices Application
 For this demo I have two branches, one for chapter 21 and another for chapter 22
 
 https://github.com/AstridCaballero/Module_10_Kubernetes_chapter-21_Demo/tree/Module_10/Kubernetes_chapter-21_Demo 
