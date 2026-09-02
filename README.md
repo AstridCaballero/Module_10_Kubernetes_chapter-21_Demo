@@ -12,7 +12,7 @@ Notes have been exported into pdf format to be able to get the screenshots (avoi
 You can find original notes for
 - Chapter 22 [here](Module%2010%20-%20chapter%2022_notes.pdf).
 
-### Description chapter 21 to 22 (now chapter 22 to 23 after the introduction of new chapter 11 - Gateway API)
+### Description chapter 21 to 22 (now chapter 22 to 23 after the introduction of new chapter 11 - Gateway API): Deploy Microservices Application
 For this demo I have two branches, one for chapter 21 and another for chapter 22
 
 https://github.com/AstridCaballero/Module_10_Kubernetes_chapter-21_Demo/tree/Module_10/Kubernetes_chapter-21_Demo 
